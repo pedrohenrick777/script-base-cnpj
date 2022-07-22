@@ -1,0 +1,7 @@
+__pycache__
+test.py
+.env
+bases_download.txt
+.vscode
+venv
+test
